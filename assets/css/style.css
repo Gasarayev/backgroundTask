@@ -18,7 +18,6 @@ body {
     height: 800px;
     background-image: url(../image/wallper.jpg);
     background-repeat: no-repeat;
-    background-attachment: fixed;
     border: 10px solid gray;
     margin: auto;
     overflow-x: scroll;
